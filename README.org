@@ -12,6 +12,10 @@ And it looks like I care of only 3 colored things:
 * More than thousand words
   [[file:screenshot1.png]]
 
+  [[file:screenshot2.png]]
+
+  [[file:screenshot3.png]]
+
 * TO DO
   - find color for git-commit-nonempty-second-line
   - clojure (font-lock-warning-face --> cider-repl-stderr-face) is ugly
