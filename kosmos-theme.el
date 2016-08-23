@@ -1,4 +1,4 @@
-;;; kosmos-theme.el --- Have you set up optical filters for you space suit? I have...
+;;; kosmos-theme.el --- Black and lightgray theme with not so much syntax highlighting.
 
 ;;; Commentary:
 ;;; Sometimes I feel there are too many colors for the code I stare at.
