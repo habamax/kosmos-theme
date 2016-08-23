@@ -1,5 +1,8 @@
 ;;; kosmos-theme.el --- Black and lightgray theme with not so much syntax highlighting.
 
+;;; Author: Maxim Kim <habamax@gmail.com>
+;;; Url: https://github.com/habamax/kosmos-theme
+
 ;;; Commentary:
 ;;; Sometimes I feel there are too many colors for the code I stare at.
 ;;; And it looks like I care of only 3 colored things:
