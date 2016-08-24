@@ -10,11 +10,11 @@ And it looks like I care of only 3 colored things:
    3. Keywords -- a bit of standout
 
 * More than thousand words
-  [[https://raw.githubusercontent.com/habamax/kosmos-theme/master/screenshot1.png][[[file:screenshot1.png]]]]
+  [[https://raw.githubusercontent.com/habamax/kosmos-theme/master/screenshot1.png][[[file:https://github.com/habamax/kosmos-theme/blob/master/screenshot1.png]]]]
 
-  [[https://raw.githubusercontent.com/habamax/kosmos-theme/master/screenshot2.png][[[file:screenshot2.png]]]]
+  [[https://raw.githubusercontent.com/habamax/kosmos-theme/master/screenshot2.png][[[file:https://github.com/habamax/kosmos-theme/blob/master/screenshot2.png]]]]
 
-  [[https://raw.githubusercontent.com/habamax/kosmos-theme/master/screenshot3.png][[[file:screenshot3.png]]]]
+  [[https://raw.githubusercontent.com/habamax/kosmos-theme/master/screenshot3.png][[[file:https://github.com/habamax/kosmos-theme/blob/master/screenshot3.png]]]]
 
 * TO DO
   - find color for git-commit-nonempty-second-line
