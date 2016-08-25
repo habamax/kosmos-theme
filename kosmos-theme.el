@@ -256,11 +256,24 @@
    `(nxml-cdata-section-content ((t (:foreground ,kosmos-fg))))
    `(nxml-cdata-section-delimiter ((t (:foreground ,kosmos-fg-dim-2))))
 
+
    ;; whitespace-mode
    `(whitespace-space ((t (:foreground ,kosmos-fg-whitespace))))
    `(whitespace-newline ((t (:foreground ,kosmos-fg-whitespace))))
    `(whitespace-indentation ((t (:foreground ,kosmos-fg-whitespace :background ,kosmos-bg-whitespace))))
    `(whitespace-line ((nil (:background ,kosmos-bg-whitespace))))
+
+
+   ;; rainbow-delimiters
+   `(rainbow-delimiters-depth-1-face ((t (:foreground ,kosmos-fg))))
+   `(rainbow-delimiters-depth-2-face ((t (:foreground "#bd7070"))))
+   `(rainbow-delimiters-depth-3-face ((t (:foreground "#bdbd70"))))
+   `(rainbow-delimiters-depth-4-face ((t (:foreground "#7070bd"))))
+   `(rainbow-delimiters-depth-5-face ((t (:foreground "#bd70bd"))))
+   `(rainbow-delimiters-depth-6-face ((t (:foreground "#70bdbd"))))
+   `(rainbow-delimiters-depth-7-face ((t (:foreground "#bda090"))))
+   `(rainbow-delimiters-depth-8-face ((t (:foreground "#90a0bd"))))
+   `(rainbow-delimiters-depth-9-face ((t (:foreground "#a0bd90"))))
 
    )
   )
