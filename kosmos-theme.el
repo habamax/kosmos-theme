@@ -144,7 +144,14 @@
    '(erc-action-face ((nil (:slant italic))))
    '(erc-button ((t (:underlined on))))
 
-   
+
+   ;; rcirc
+   '(rcirc-server ((t (:foreground "#555555"))))
+   '(rcirc-timestamp ((t (:foreground "#555555"))))
+   '(rcirc-other-nick ((t (:foreground "#779977"))))
+   '(rcirc-my-nick ((t (:foreground "#cc5555"))))
+
+
    ;; magit
    '(git-commit-summary ((t (:inherit font-lock-string-face))))
 
