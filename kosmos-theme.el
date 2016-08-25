@@ -134,7 +134,9 @@
 
    ;; erc
    '(erc-current-nick-face ((t (:foreground "#ffffff"))))
-   '(erc-nick-default-face ((t (:foreground "#779977"))))
+   ;; if erc-nick-default-face has foreground setup then it could not be
+   ;; overriden by erc-my-nick-face
+   ;; '(erc-nick-default-face ((t (:foreground "#779977"))))
    '(erc-my-nick-face ((t (:foreground "#cc5555"))))
    '(erc-input-face ((t (:foreground "#8dbdbd"))))
    '(erc-timestamp-face ((t (:foreground "Wheat"))))
