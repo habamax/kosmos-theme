@@ -39,7 +39,7 @@
      (kosmos-bg-done "#777777")
      (kosmos-h1 "#b0b0b0")
      (kosmos-h2 "#b0b090")
-     (kosmos-bg-hl-parens "#324035")
+     (kosmos-bg-hl-parens "#703000")
      (kosmos-bg-alt "#252520")
      (kosmos-fg-modeline-hl "#ffff00")
      (kosmos-bg-whitespace "#1a1a1f")
