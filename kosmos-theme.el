@@ -51,6 +51,7 @@
      (kosmos-fg-search-fail "#da70d6")
      (kosmos-bg-search-fail "#603060")
      (kosmos-bg-highlight "#203040")
+     (kosmos-fg-url "#5090e0")
      )
 
 
@@ -105,7 +106,7 @@
 
 
    ;; links
-   `(link ((t (:foreground ,kosmos-keyword :underline (:color ,kosmos-keyword)))))
+   `(link ((t (:foreground ,kosmos-fg-url :underline (:color ,kosmos-fg-url)))))
    `(link-visited ((t (:foreground ,kosmos-fg :underline (:color ,kosmos-fg)))))
 
    ;; dired
@@ -150,6 +151,7 @@
    '(rcirc-timestamp ((t (:foreground "#555555"))))
    '(rcirc-other-nick ((t (:foreground "#779977"))))
    '(rcirc-my-nick ((t (:foreground "#cc5555"))))
+   `(rcirc-url ((t (:foreground ,kosmos-fg-url :weight normal :underline (:color ,kosmos-fg-url)))))
 
 
    ;; magit
