@@ -51,8 +51,8 @@
      (kosmos-fg-search-fail "#da70d6")
      (kosmos-bg-search-fail "#603060")
      (kosmos-bg-highlight "#203040")
-     (kosmos-fg-url "#5090e0")
-     )
+     (kosmos-fg-url "#90a0bd")
+)
 
 
 
