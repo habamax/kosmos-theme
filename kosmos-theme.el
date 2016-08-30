@@ -1,21 +1,18 @@
 ;;; kosmos-theme.el --- Black and lightgray theme with not so much syntax highlighting.
 
-;;; Author: Maxim Kim <habamax@gmail.com>
-;;; Url: https://github.com/habamax/kosmos-theme
+;; Author: Maxim Kim <habamax@gmail.com>
+;; Url: https://github.com/habamax/kosmos-theme
+;; Package-Requires: ((emacs "24"))
 
 ;;; Commentary:
-;;; Sometimes I feel there are too many colors for the code I stare at.
-;;; And it looks like I care of only 3 colored things:
-;;; 1. Comments -- clearly visible and distinct but not too aggressive (I am looking at you, firebrick!)
-;;; 2. Strings  -- did I miss a quote?
-;;; 3. Keywords -- a bit of standout
 
-
-
-
+;; Sometimes I feel there are too many colors for the code I stare at.
+;; And it looks like I care of only 3 colored things:
+;; 1. Comments -- clearly visible and distinct but not too aggressive (I am looking at you, firebrick!)
+;; 2. Strings  -- did I miss a quote?
+;; 3. Keywords -- a bit of standout
 
 ;;; Code:
-
 
 (deftheme kosmos "Have you set up optical filters for you space suit? I have...")
 
