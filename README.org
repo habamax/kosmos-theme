@@ -17,7 +17,4 @@ And it looks like I care of only 3 colored things:
 
   [[https://raw.githubusercontent.com/habamax/kosmos-theme/master/screenshot3.png][https://github.com/habamax/kosmos-theme/blob/master/screenshot3.png]]
 
-* TO DO
-  - find color for git-commit-nonempty-second-line
-  - clojure (font-lock-warning-face --> cider-repl-stderr-face) is ugly
-  - snippet mode clash white {} with pair highlighting
+
