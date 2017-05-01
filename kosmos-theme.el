@@ -282,8 +282,7 @@
 
 
    ;; asciidoctor-mode
-   ;; `(asciidoctor-header-rule-face ((t (:foreground ,kosmos-h1 :weight bold :height 1.3))))
-   ;; `(asciidoctor-header-delimiter-face ((t (:weight bold :height 1.3))))
+   `(asciidoctor-header-delimiter-face ((t (:foreground ,kosmos-fg-dim))))
 
    `(asciidoctor-header-face-1 ((t (:foreground ,kosmos-title :weight bold :height 1.3))))
    `(asciidoctor-header-face-2 ((t (:foreground ,kosmos-heading :weight bold :height 1.3))))
@@ -292,7 +291,9 @@
    `(asciidoctor-header-face-5 ((t (:foreground ,kosmos-heading :slant italic :height 1.1))))
    `(asciidoctor-header-face-6 ((t (:foreground ,kosmos-heading :slant italic :height 1.1))))
 
-   
+   `(asciidoctor-option-face ((t (:foreground ,kosmos-fg-dim))))
+   `(asciidoctor-option-markup-face ((t (:foreground ,kosmos-fg-dim))))
+
    )
   )
 
