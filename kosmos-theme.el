@@ -294,6 +294,11 @@
    `(asciidoctor-option-face ((t (:foreground ,kosmos-fg-dim))))
    `(asciidoctor-option-markup-face ((t (:foreground ,kosmos-fg-dim))))
 
+
+   `(bongo-comment ((t (:foreground ,kosmos-fg-dim))))
+   `(bongo-elapsed-track-part ((t (:background ,kosmos-bg-alt))))
+   `(bongo-currently-playing-track ((t (:slant italic))))
+
    )
   )
 
